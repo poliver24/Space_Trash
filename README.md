@@ -18,6 +18,14 @@ The initial goal was to use machine learning to predict the optimal orbit for a 
 * let the user input the predictions they would like our model, How2, to make for objects of their choice.
 * generate predictions and accuracy metrics for a machine learning model, using the linear regression algorithm.
 
+### Tech Stack
+
+- Python
+- JavaScript
+- TensorFlow
+- Django
+- CesiumJS
+
 ### To run the application locally
 
 Clone this repository, then run:
